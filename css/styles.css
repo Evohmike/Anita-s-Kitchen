@@ -1,11 +1,46 @@
-.header {
-  background-image: url("../assets/backgrounds/landing.jpg");
-  height: 600px;
-  width: auto;
-  background-repeat: no-repeat;
-  background-position: center;
+
+
+.image img{
+  width: 100%;
 }
-.text-block{
+.logo{
+  position: absolute;
+  margin-left: 40%;
+  top: 20%;
+}
+.home{
+  position: relative;
+}
+.banner{
+  position: relative;
+}
+.bannerText{
+  top: 75%;
+  margin-left: 30%;
+  text-transform: uppercase;
+  position: absolute;
   text-align: center;
-  text
+}
+.footer{
+  position: fixed;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  bottom:0;
+  color: white;
+  background-color:#F15A29;
+}
+.footer h6 img{
+  margin: 0 5px 2.5px 0;
+  height: 19px;
+}
+.fa{
+  width: 27px;
+  height: 27px;
+  background: white;
+  margin:0 5px;
+  padding: 10px;
+  color: #F15A29;
+  text-decoration: none;
+  text-align: center;
 }
