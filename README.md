@@ -1,5 +1,5 @@
-# {Application Name}
-#### {Brief description of application}, 2018.04.27.
+# Anita's Kitchen
+#### Hotel website, 2018.04.27.
 #### By **evohmike**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
