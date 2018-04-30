@@ -56,6 +56,17 @@
 #Drinks{
   text-align: right;
 }
+#foodsBg{
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
+  text-align: center;
+  height: 400px;
+}
+#foodsBg2{
+  background-color: white;
+  margin-top: 70px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
 
 
 
