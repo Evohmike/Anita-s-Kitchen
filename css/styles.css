@@ -43,6 +43,11 @@
 
 
 
+#slider{
+  background-image: url(../img/backgrounds/foodsBg.jpg);
+}
+
+
 .footer{
   left: 0;
   text-align: center;
